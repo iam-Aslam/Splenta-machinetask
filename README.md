@@ -1,16 +1,11 @@
-# weatherapp
+# Weather App
 
-A new Flutter project.
+This is a Flutter weather app that provides real-time weather information using the OpenWeatherMap API. It incorporates the Provider package for state management, handles internet errors gracefully, and follows the MVC (Model-View-Controller) architecture.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Real-time weather updates
+- MVC architecture for clean and organized code
+- Provider package for efficient state management
+- Internet error handling
+- DIO
